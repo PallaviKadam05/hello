@@ -1,0 +1,11 @@
+important link:
+
+https://api.rubyonrails.org/classes/ActiveRecord/Validations/ClassMethods.html#method-i-validates_uniqueness_of   #validation
+
+
+for contineu menu bar::::::
+gem 'rails_layout'
+bundle install
+ rails generate layout:install simple -- force
+ 
+
