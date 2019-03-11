@@ -6,5 +6,5 @@ https://api.rubyonrails.org/classes/ActiveRecord/Validations/ClassMethods.html#m
 for contineu menu bar::::::
 gem 'rails_layout'
 bundle install
- rails generate layout:install simple --force
+ rails generate layout:install simple --
 
